@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "E_Ehc4Qur",
+      "name": "alex",
+      "number": "+159159159"
+    },
+    {
+      "id": "YmhjL4D5w",
+      "name": "nataly",
+      "number": "+123123123"
+    },
+    {
+      "id": "_Zd7223u0",
+      "name": "iren",
+      "number": "+123123123"
+    },
+    {
+      "id": "LtoISmzIk",
+      "name": "leo",
+      "number": "+123123123"
+    },
+    {
+      "id": "mHm3QaFAl",
+      "name": "ann",
+      "number": "+123123123"
+    },
+    {
+      "id": "FXfJXZjff",
+      "name": "dina",
+      "number": "+123123123"
+    },
+    {
+      "id": "MWio0efXM",
+      "name": "lukas",
+      "number": "+123123123"
+    }
+  ]
+}
